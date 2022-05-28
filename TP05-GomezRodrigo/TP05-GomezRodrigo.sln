@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{6446F57A-FAFF-4500-BD6C-A5EEF812F4E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invertirPositivos", "invertirPositivos\invertirPositivos.csproj", "{26D022B5-8D48-4321-B188-D2A946D42851}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6446F57A-FAFF-4500-BD6C-A5EEF812F4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6446F57A-FAFF-4500-BD6C-A5EEF812F4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6446F57A-FAFF-4500-BD6C-A5EEF812F4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6446F57A-FAFF-4500-BD6C-A5EEF812F4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D022B5-8D48-4321-B188-D2A946D42851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D022B5-8D48-4321-B188-D2A946D42851}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D022B5-8D48-4321-B188-D2A946D42851}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D022B5-8D48-4321-B188-D2A946D42851}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {EE88E050-0BFE-4887-90A5-A3C45545C77A}
+		SolutionGuid = {1CCAF5E5-AB79-4218-8555-ABD1990FA246}
 	EndGlobalSection
 EndGlobal

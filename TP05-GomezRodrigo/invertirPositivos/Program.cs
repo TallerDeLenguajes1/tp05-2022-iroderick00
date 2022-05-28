@@ -10,7 +10,8 @@ if (numero <= 0)
 {
     Console.Clear();
     Console.WriteLine("Solo está permitido invertir números positivos");
-}else
+}
+else
 {
     while (cociente > 0)
     {
