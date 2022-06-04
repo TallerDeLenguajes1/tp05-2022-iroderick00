@@ -37,7 +37,7 @@ void CalculadoraV1(int operacion, double op1, double op2)
     }
     else
     {
-        Console.WriteLine(resultado);
+        Console.WriteLine($"El resultado de la operacion es {resultado}");
     }
 }
 
