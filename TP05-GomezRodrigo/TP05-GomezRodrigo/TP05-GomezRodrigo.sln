@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invertirPositivos", "invertirPositivos\invertirPositivos.csproj", "{6978887B-AC3B-40A6-A353-1039D2CF3266}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadora", "calculadora\calculadora.csproj", "{02DEFE96-77D2-4B69-BFC7-D62140DEDC0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6978887B-AC3B-40A6-A353-1039D2CF3266}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6978887B-AC3B-40A6-A353-1039D2CF3266}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6978887B-AC3B-40A6-A353-1039D2CF3266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02DEFE96-77D2-4B69-BFC7-D62140DEDC0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DEFE96-77D2-4B69-BFC7-D62140DEDC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DEFE96-77D2-4B69-BFC7-D62140DEDC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DEFE96-77D2-4B69-BFC7-D62140DEDC0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
